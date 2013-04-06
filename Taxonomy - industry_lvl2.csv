@@ -1,0 +1,39 @@
+Consumer,Apparel
+Consumer,          Beverages
+Consumer,          Consumer Electronics
+Consumer,          Food
+Consumer,          Household Products
+Consumer,          Restaurants & Bars
+Consumer,          Retail Stores
+        Energy,Coal
+Energy,          Oil & Gas
+Energy,          Renewable Energy
+Energy,          Utilities
+        Financial Services,Banking
+Financial Services,          Insurance
+Financial Services,          Investment Services
+        Health Care,Biotechnology
+Health Care,          Health Care Providers
+Health Care,          Medical Devices
+Health Care,          Pharmaceuticals
+        Media & Entertainment,Entertainment
+Media & Entertainment,          Media
+Media & Entertainment,          Publishing
+        Nonprofit,Philanthropy
+        Professional & Business Services,Business Support Services
+Professional & Business Services,          Employment Services
+Professional & Business Services,          Environmental Services
+Professional & Business Services,          Professional Services
+        Recreation,Casinos & Gaming
+Recreation,          Leisure
+Recreation,          Sports
+Recreation,          Toy
+        Technology,Information Technology
+Technology,          Internet
+Technology,          Nanotechnology
+Technology,          Robotics
+Technology,          Semiconductors
+Technology,          Telecommunications
+        Transportation,Airlines
+Transportation,          Automotive
+Transportation,          Rail
